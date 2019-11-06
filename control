@@ -1,0 +1,9 @@
+Package: com.dgh0st.noforceportraitlock
+Name: NoForcePortraitLock
+Depends: mobilesubstrate
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: Don't force portrait orientation when locking on iPhones
+Maintainer: DGh0st <deeppwnage@yahoo.com>
+Author: DGh0st <deeppwnage@yahoo.com>
+Section: Tweaks
